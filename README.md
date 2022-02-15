@@ -1,1 +1,1 @@
-# profile_fcc_ex
+Realizando o 5º exercício para o FREECODCAMP - Design responsivo para a web ! caso queria acessar, basta clicar no link: 
